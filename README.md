@@ -1,6 +1,7 @@
 # COMP2300 Assignment 1
 
 Written for COMP2300 in S1 2020. Generates a triangle wave of 440Hz. 
+(Currently slightly broken)
 
 Grade: 80
 
